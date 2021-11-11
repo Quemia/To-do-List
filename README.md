@@ -4,7 +4,9 @@
 
 ## Getting Started :rocket:
 
-A simple to-do list to train my skills in React
+A simple to-do list to train my skills in React.
+
+
 ![Screenshot_20211111_000505](https://user-images.githubusercontent.com/55935949/141230284-75dee20f-4753-4168-80d6-a5931fe0297a.png)
 
 
