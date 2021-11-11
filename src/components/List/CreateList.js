@@ -25,7 +25,7 @@ const CreateList = ({ onSubmit }) => {
                 onChange={setNewTask}
               />
             </Col>
-            <Col>
+            <Col sm={2}>
               <Button variant="primary" size="sm" type="submit">
                 Add
               </Button>
