@@ -20,7 +20,7 @@ A simple to-do list to train my skills in React.
     Git
   ```
 
-### Installation:wrench:
+### Installation :wrench:
 
 The first step is to download the repository in your machine with git:
 
